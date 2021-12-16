@@ -1,12 +1,12 @@
 {
-    "vcenter_server":"vcenter",
-    "username":"administrator@vsphere.local",
-    "password":"VMware123!",
-    "datastore":"vsanDatastore",
-    "folder": "_Templates",
-    "host":"esxihost",
-    "cluster": "workercluster",
-    "network": "VM Network",
-    "ssh_username": "vm preseed user",
-    "ssh_password": "vm preseed password"
+    "vcenter_server":"10.150.1.128",
+    "username":"administrator@tanzu.vsphere.local",
+    "password":"Rec0Mudez16@",
+    "datastore":"NetappFAS_NFS",
+    "folder": "Andres_NO_BORRAR",
+    "cluster": "Cluster-DR",
+    "network": "DPortGroup-Servicios",
+    "ssh_username": "andresdiezsola",
+    "ssh_password": "AndisO@&1441"
+    "os_iso_path": "[Datastore-NFS-FREENAS] ISOs/ubuntu-20.04.1-live-server-amd64.iso"
 }
